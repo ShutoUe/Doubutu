@@ -4,4 +4,3 @@ class Hiyoko extends AbstractKoma {
     super(name, x, y, team, active);
   }
 }
-
